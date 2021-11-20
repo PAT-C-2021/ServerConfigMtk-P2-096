@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ServiceMtk-P1-20190140096">
-      <HintPath>..\ServiceMtk-P1-096\ServiceMtk-P1-096-master\bin\Debug\ServiceMtk-P1-20190140096.dll</HintPath>
+    <Reference Include="ServiceMtk-P1-20190140096, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ServiceMtk-P1-096\bin\Debug\ServiceMtk-P1-20190140096.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
